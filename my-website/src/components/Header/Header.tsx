@@ -6,7 +6,7 @@ export default function Header() {
         <header>
             <div className={styles.logo}>Liza Biryukova</div>
             {/* <div>кнопка переключения темы</div> */}
-            тест phpstorm
+            тест
             <nav>
                 <ul>
                     <li>Info</li>
